@@ -20,9 +20,10 @@ This project involves the use of convolutional neutral network to identify 7 cla
  
  6.Surprise
 
+ 7.Neutral
+ 
+# RESULTS!!
 
-RESULTS!!
 ![Screenshot (62)](https://github.com/user-attachments/assets/c18815cc-5648-4031-88ee-3e73a3af327d)
 
- 
- 7.Neutral
+
